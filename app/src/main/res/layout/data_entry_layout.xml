@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:gravity="center"
+    android:focusable="true"
+    android:focusableInTouchMode="true">
+    <EditText
+        android:id="@+id/xValue"
+        android:layout_width="130dp"
+        android:layout_height="wrap_content"
+        android:hint="X Value"
+        android:inputType="text"
+        android:textSize="24dp" />
+
+    <EditText
+        android:id="@+id/yValue"
+        android:layout_width="130dp"
+        android:layout_height="wrap_content"
+        android:hint="Y Value"
+        android:inputType="numberDecimal"
+        android:textSize="24dp" />
+    <android.widget.Button
+        android:id="@+id/buttonRemove"
+        android:layout_width="28dp"
+        android:layout_height="28dp"
+        android:textColor="#141414"
+        android:background="@drawable/minus_button"/>
+</LinearLayout>
