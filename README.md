@@ -5,6 +5,8 @@ Android Chart/Graph maker app (Java)
 
 • Allows easy and engaging visual interpretation of users’ data in the form of Bar Chart, Line Chart, Pie Chart
 
+<b>Download</b> APK: [Here](https://github.com/sanjaymv00/Chartify/raw/outputAPK/Chartify.apk)
+
 ## Demo:
 1. Bar Chart
 
